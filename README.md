@@ -1,6 +1,6 @@
 This is an example Java project used in Codeanywhere.
 
-[Try it out](https://app.codeanywhere.com/workspace/create#https://github.com/Codeanywhere-Templates/java)
+[Try it out](https://app.codeanywhere.com/#https://github.com/Codeanywhere-Templates/java)
 
 ### Running the project
 
